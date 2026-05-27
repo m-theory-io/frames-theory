@@ -103,7 +103,6 @@ $$
 =
 \Phi_i\bigl(\mathcal{A}(E);\rho_i,N_i,C_i,R_i\bigr),
 $$
-
 where $\Phi_i$ is the frame-specific admissibility filter, $\rho_i$ is the frame state, $N_i$ its accessible neighborhood, $C_i$ its constraints, and $R_i$ its record or memory structure.
 
 This expression is not a new physical law. It is a conceptual scaffold. It says that reception is not determined by the event alone. It is determined by the event together with the receiving frame's structure.
