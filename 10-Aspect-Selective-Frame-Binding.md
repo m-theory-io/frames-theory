@@ -287,14 +287,7 @@ where $\mathcal{O}$ denotes the degree of objectivity of aspect $a_k$ within nei
 A schematic expression might be:
 
 $$
-\mathcal{O}(a_k;\mathcal{N})
-=
-G\left(
-\text{stability}(a_k),
-\text{redundancy}_{\mathcal{N}}(a_k),
-\text{accessibility}_{\mathcal{N}}(a_k),
-\text{consistency}_{\mathcal{N}}(a_k)
-\right).
+\mathcal{O}(a_k;\mathcal{N}) = G\left(\text{stability}(a_k),\text{redundancy}_{\mathcal{N}}(a_k),\text{accessibility}_{\mathcal{N}}(a_k),\text{consistency}_{\mathcal{N}}(a_k)\right).
 $$
 
 This is not a final metric. It states that objectivity varies by aspect and by neighborhood. The acoustic aspect may have high objectivity in a broad physical neighborhood. The source-identity aspect may have high objectivity in a neighborhood containing appropriately equipped perceptual or technological frames. The aesthetic aspect may have lower or more variable objectivity because it depends on frame histories and valuation structures.
