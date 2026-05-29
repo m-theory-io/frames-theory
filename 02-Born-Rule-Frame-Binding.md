@@ -89,9 +89,7 @@ $$
 Let $F$ be a receiving frame initially in state $|F_0\rangle$. In an idealized measurement model, $F$ represents a frame that has already become a suitable candidate binding site for the relevant interaction. Before interaction, the joint state is
 
 $$
-|\psi\rangle_S |F_0\rangle
-=
-\left(\sum_k c_k |k\rangle_S\right)|F_0\rangle.
+|\psi\rangle_S |F_0\rangle = \left(\sum_k c_k |k\rangle_S\right)|F_0\rangle.
 $$
 
 An ideal measurement-like interaction correlates each system state $|k\rangle_S$ with a corresponding frame state $|F_k\rangle$:
