@@ -187,9 +187,7 @@ $$
 This condition is naturally satisfied by the quadratic measure:
 
 $$
-|c|^2
-=
-n\left|\frac{c}{\sqrt n}\right|^2.
+|c|^2=n\left|\frac{c}{\sqrt n}\right|^2.
 $$
 
 The Frames Theory justification is that refinement introduces additional distinguishable substructure inside an outcome channel, but does not create new total binding weight for the original channel. If a child frame resolves the subchannels $|k,j\rangle$ while a parent frame registers only $k$, then their measures must agree when the fine distinctions are summed.
@@ -209,9 +207,7 @@ $$
 be the map from fine-grained distinctions to parent-frame outcome classes. Then the parent-frame measure must equal the sum of the child-frame measures over all fine outcomes that map to $k$:
 
 $$
-\mu_{F_P}(k)
-=
-\sum_{\alpha\in\pi^{-1}(k)}\mu_{F_i}(\alpha).
+\mu_{F_P}(k)=\sum_{\alpha\in\pi^{-1}(k)}\mu_{F_i}(\alpha).
 $$
 
 This is recursive frame-containment consistency.
@@ -329,9 +325,7 @@ $$
 Recursive frame-containment consistency then ensures that the same measure survives changes of frame resolution:
 
 $$
-\mu_{F_P}(k)
-=
-\sum_{\alpha\in\pi^{-1}(k)}\mu_{F_i}(\alpha).
+\mu_{F_P}(k)=\sum_{\alpha\in\pi^{-1}(k)}\mu_{F_i}(\alpha).
 $$
 
 Thus the Born measure is not only selected within a single outcome context; it is stable across a recursive network of frames.

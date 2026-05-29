@@ -73,9 +73,7 @@ $$
 After outcome $k$ is obtained, the state is updated by the Lüders rule:
 
 $$
-\rho^{\mathrm{post}}
-=
-\frac{P_k\rho P_k}{\operatorname{Tr}(P_k\rho)}.
+\rho^{\mathrm{post}}=\frac{P_k\rho P_k}{\operatorname{Tr}(P_k\rho)}.
 $$
 
 In collapse language, this is often described as if the physical state of the world has jumped into the $k$ subspace. Frames Theory gives a different interpretation.
@@ -85,9 +83,7 @@ Projection is frame-relative conditionalization. It is the rule by which a recei
 For a receiving frame $F$, write the post-binding update as
 
 $$
-\rho_F^{\mathrm{post}}
-=
-\frac{P_k\rho P_k}{\operatorname{Tr}(P_k\rho)}.
+\rho_F^{\mathrm{post}}=\frac{P_k\rho P_k}{\operatorname{Tr}(P_k\rho)}.
 $$
 
 The denominator is the binding weight associated with that possible update:
@@ -117,9 +113,7 @@ This distinction matters. A detector frame may become bound to outcome $k$ and u
 For example, before the detector reading is propagated to a broader frame, a larger frame may write
 
 $$
-|\Psi\rangle_{SD}
-=
-\sum_k c_k |k\rangle_S |D_k\rangle.
+|\Psi\rangle_{SD}=\sum_k c_k |k\rangle_S |D_k\rangle.
 $$
 
 The detector frame $D_k$, however, is locally stabilized with respect to outcome $k$. From within that detector frame, subsequent same-basis interactions are constrained as though the state has projected. Projection is therefore not a universal physical rupture. It is the formal expression of local stabilization in a receiving frame.
@@ -239,9 +233,7 @@ $$
 A detector frame $D_k$ that has bound to outcome $k$ may use a conditioned state:
 
 $$
-\rho_{D_k}^{\mathrm{post}}
-=
-\frac{P_k\rho P_k}{\operatorname{Tr}(P_k\rho)}.
+\rho_{D_k}^{\mathrm{post}}=\frac{P_k\rho P_k}{\operatorname{Tr}(P_k\rho)}.
 $$
 
 These descriptions differ, but they are not arbitrary. The reduced state must be obtainable from the broader state by restricting access. The conditioned state must be tied to a binding event with a definite outcome-relative channel. The binding measures must agree when fine-grained distinctions are grouped into coarser outcomes.
@@ -249,9 +241,7 @@ These descriptions differ, but they are not arbitrary. The reduced state must be
 A useful consistency relation, developed more fully in the Born-rule derivation paper, is
 
 $$
-\mu_{F_P}(k)
-=
-\sum_{\alpha\in\pi^{-1}(k)}\mu_{F_i}(\alpha).
+\mu_{F_P}(k)=\sum_{\alpha\in\pi^{-1}(k)}\mu_{F_i}(\alpha).
 $$
 
 Here $F_i$ is a finer-grained or child frame, $F_P$ is a parent or containing frame, and $\pi$ maps fine distinctions $\alpha$ to coarse outcome classes $k$. This relation says that the measure assigned to a coarse outcome must reconcile with the summed measures assigned to the finer outcomes that realize it.
@@ -321,9 +311,7 @@ Projection, partial trace, and decoherence are often treated as if they describe
 Projection is the update rule for a receiving frame after it binds to outcome-resolving information:
 
 $$
-\rho_F^{\mathrm{post}}
-=
-\frac{P_k\rho P_k}{\operatorname{Tr}(P_k\rho)}.
+\rho_F^{\mathrm{post}}=\frac{P_k\rho P_k}{\operatorname{Tr}(P_k\rho)}.
 $$
 
 Partial trace is the construction of the state available within a frame's informational boundary:

@@ -87,9 +87,7 @@ In human terms, memory may involve neural encoding, retrieval, and interpretatio
 Memory can be represented schematically as
 
 $$
-M_i(E,t_2)
-=
-\mathrm{StableBind}_{F_i}\left(R_i(E),t_2\right),
+M_i(E,t_2)=\mathrm{StableBind}_{F_i}\left(R_i(E),t_2\right),
 $$
 
 where $M_i(E,t_2)$ is the memory of event $E$ available to frame $F_i$ at a later stage $t_2$.
@@ -131,9 +129,7 @@ For a bounded frame, the past is not simply "everything that happened." It is th
 Define the accessible past of a frame schematically as
 
 $$
-\mathrm{Past}(F_i)
-=
-\{E : R_i(E) \in \mathrm{Access}(F_i)\}.
+\mathrm{Past}(F_i)=\{E : R_i(E) \in \mathrm{Access}(F_i)\}.
 $$
 
 This is not intended to deny that events may have occurred without leaving accessible records. Rather, it distinguishes occurrence from frame-accessible pastness. For a frame, an event becomes part of its practical past only insofar as the frame can access, infer, or be constrained by records of it.
@@ -149,9 +145,7 @@ If the past is record-accessible, the future is update-accessible. It consists o
 For a frame $F_i$ with current state $\rho_i$ and record set $R_i$, define the compatible future schematically as
 
 $$
-\mathrm{Future}(F_i)
-=
-\{\rho_i' : \rho_i' \text{ is reachable from } (\rho_i,R_i) \text{ by admissible updates}\}.
+\mathrm{Future}(F_i)=\{\rho_i' : \rho_i' \text{ is reachable from } (\rho_i,R_i) \text{ by admissible updates}\}.
 $$
 
 This is not a claim that the future is metaphysically unreal. It is a statement about frame access. A frame does not have records of future events in the same way it has records of past events. It has predictions, constraints, amplitudes, probabilities, plans, and dynamical laws.
@@ -269,9 +263,7 @@ For example, the CMB functions as a record of the early universe. Galaxy redshif
 Frames Theory interprets this as large-scale record reconciliation:
 
 $$
-H_{\mathrm{cos}}
-=
-\mathrm{Reconstruct}\left(R_{\mathrm{CMB}},R_{\mathrm{LSS}},R_{\mathrm{BBN}},R_{\mathrm{stellar}},\ldots\right).
+H_{\mathrm{cos}}=\mathrm{Reconstruct}\left(R_{\mathrm{CMB}},R_{\mathrm{LSS}},R_{\mathrm{BBN}},R_{\mathrm{stellar}},\ldots\right).
 $$
 
 Here $H_{\mathrm{cos}}$ is not a directly observed object. It is a consistency-constrained reconstruction from many record channels.
@@ -285,9 +277,7 @@ A frame persists through time by maintaining structured continuity across update
 For a frame $F_i$ at two stages, $t_1$ and $t_2$, persistence can be expressed as high continuity between record-bearing states:
 
 $$
-\mathcal{P}(F_i(t_1),F_i(t_2))
-=
-\exp\left(-D(\rho_i(t_1),\rho_i(t_2);R_i)\right),
+\mathcal{P}(F_i(t_1),F_i(t_2))=\exp\left(-D(\rho_i(t_1),\rho_i(t_2);R_i)\right),
 $$
 
 where $D$ is a schematic distance sensitive to loss of relevant organization and records.
@@ -385,9 +375,7 @@ This paper has argued that time, for a frame, is the ordered structure of access
 The compact statement is:
 
 $$
-\text{time for a frame}
-=
-\text{ordered record-accessible update structure}.
+\text{time for a frame}=\text{ordered record-accessible update structure}.
 $$
 
 This view preserves the usefulness of physical time coordinates while grounding temporal meaning in frame-relative information. It also connects quantum measurement, classical objectivity, relativity, cosmology, and self-reference through a common theme: what becomes real for a frame is what can be bound, recorded, remembered, and reconciled.
