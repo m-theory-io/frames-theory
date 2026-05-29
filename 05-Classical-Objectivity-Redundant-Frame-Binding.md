@@ -184,9 +184,7 @@ For objectivity to emerge, these levels must reconcile. A fine-grained detector 
 A consistency relation can be written as
 
 $$
-\mu_{F_P}(k)
-=
-\sum_{\alpha\in\pi^{-1}(k)}\mu_{F_i}(\alpha),
+\mu_{F_P}(k)=\sum_{\alpha\in\pi^{-1}(k)}\mu_{F_i}(\alpha),
 $$
 
 where $F_i$ is a finer frame, $F_P$ is a parent or containing frame, $\alpha$ are fine-grained distinctions, and $\pi$ maps those distinctions to the coarse outcome $k$.

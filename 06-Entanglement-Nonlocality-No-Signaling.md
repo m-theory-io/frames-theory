@@ -33,10 +33,7 @@ This thesis does not modify quantum predictions. It offers an interpretation of 
 Consider two systems $A$ and $B$ prepared by a common generating frame $G$ in an entangled state. A simple example is the Bell state
 
 $$
-|\Phi^+\rangle_{AB}
-=
-\frac{1}{\sqrt 2}
-\left(|0\rangle_A|0\rangle_B+|1\rangle_A|1\rangle_B\right).
+|\Phi^+\rangle_{AB}=\frac{1}{\sqrt 2}\left(|0\rangle_A|0\rangle_B+|1\rangle_A|1\rangle_B\right).
 $$
 
 This state cannot be written as a product of separate states for $A$ and $B$:
@@ -52,19 +49,13 @@ In standard quantum language, the systems are entangled. In Frames Theory, this 
 The reduced state of either subsystem is mixed:
 
 $$
-\rho_A
-=
-\operatorname{Tr}_B\left(|\Phi^+\rangle\langle\Phi^+|\right)
-=
-\frac{1}{2}I,
+\rho_A=\operatorname{Tr}_B\left(|\Phi^+\rangle\langle\Phi^+|\right)=\frac{1}{2}I,
 $$
 
 and likewise
 
 $$
-\rho_B
-=
-\frac{1}{2}I.
+\rho_B=\frac{1}{2}I.
 $$
 
 The local reduced state contains no definite value for the correlated outcome. It also contains no information by itself about which measurement will be chosen at the distant wing. The correlation lives in the joint structure, not in either local reduced state alone.
@@ -84,9 +75,7 @@ The local binding at $A$ is not caused by a signal from $B$. Likewise, the local
 Yet the outcomes are not independent. The joint probabilities are given by the quantum state and measurement settings:
 
 $$
-P(a,b|x,y)
-=
-\operatorname{Tr}\left[(M^x_a\otimes N^y_b)\rho_{AB}\right],
+P(a,b|x,y)=\operatorname{Tr}\left[(M^x_a\otimes N^y_b)\rho_{AB}\right],
 $$
 
 where $M^x_a$ and $N^y_b$ are the measurement operators associated with the two local settings.
@@ -108,9 +97,7 @@ $$
 Together with suitable statistical assumptions, this leads to Bell inequalities. Quantum mechanics violates these inequalities. For the CHSH scenario, one defines a combination of correlations
 
 $$
-S
-=
-E(x,y)+E(x,y')+E(x',y)-E(x',y'),
+S=E(x,y)+E(x,y')+E(x',y)-E(x',y'),
 $$
 
 and local hidden-variable theories require
@@ -144,9 +131,7 @@ $$
 Rather,
 
 $$
-\text{Bell nonlocality}
-=
-\text{failure of separable local completion}.
+\text{Bell nonlocality}=\text{failure of separable local completion}.
 $$
 
 Frames Theory therefore treats nonlocality as a constraint on descriptions, not as an ordinary signal process between distant events.
@@ -156,17 +141,13 @@ Frames Theory therefore treats nonlocality as a constraint on descriptions, not 
 Quantum theory forbids controllable faster-than-light signaling. In the bipartite case, this means that the marginal probability for Alice's outcome does not depend on Bob's measurement setting:
 
 $$
-P(a|x)
-=
-\sum_b P(a,b|x,y)
+P(a|x)=\sum_b P(a,b|x,y)
 $$
 
 is independent of $y$. Similarly,
 
 $$
-P(b|y)
-=
-\sum_a P(a,b|x,y)
+P(b|y)=\sum_a P(a,b|x,y)
 $$
 
 is independent of $x$.
@@ -214,9 +195,7 @@ $$
 Only in $F_C$ is the joint correlation directly available as a record. The comparison frame can estimate quantities such as
 
 $$
-E(x,y)
-=
-\sum_{a,b}ab\,P(a,b|x,y).
+E(x,y)=\sum_{a,b}ab\,P(a,b|x,y).
 $$
 
 This delayed reconciliation is crucial. It prevents the appearance of a contradiction between local randomness and joint order. Locally, each side sees outcomes distributed according to its reduced state. Jointly, after records are compared, the correlations reveal the structure of the entangled source.
@@ -343,21 +322,15 @@ An entangled source frame generates a distributed state. Local receiving frames 
 The resulting view is compact:
 
 $$
-\text{entanglement}
-=
-\text{distributed binding constraint},
+\text{entanglement}=\text{distributed binding constraint},
 $$
 
 $$
-\text{nonlocality}
-=
-\text{failure of separable local completion},
+\text{nonlocality}=\text{failure of separable local completion},
 $$
 
 $$
-\text{no-signaling}
-=
-\text{causal limitation on frame-accessible records}.
+\text{no-signaling}=\text{causal limitation on frame-accessible records}.
 $$
 
 This preserves the empirical content of quantum mechanics while giving Frames Theory a clear account of one of its sharpest interpretive tests: quantum correlations can be nonlocal without becoming signals.

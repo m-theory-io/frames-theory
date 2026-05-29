@@ -29,9 +29,7 @@ A cosmological frame is a large-scale bounded informational domain associated wi
 Building on the relativistic frame notation, write
 
 $$
-F_{\mathrm{cos}}
-=
-(\rho_{\mathrm{cos}},N_{\mathrm{cos}},C_{\mathrm{cos}},\mathcal{D}_{\mathrm{cos}}),
+F_{\mathrm{cos}}=(\rho_{\mathrm{cos}},N_{\mathrm{cos}},C_{\mathrm{cos}},\mathcal{D}_{\mathrm{cos}}),
 $$
 
 where $\rho_{\mathrm{cos}}$ is the accessible cosmological state, $N_{\mathrm{cos}}$ is the set of accessible neighboring frames or regions, $C_{\mathrm{cos}}$ is the set of consistency constraints, and $\mathcal{D}_{\mathrm{cos}}$ is the causal domain of the cosmological frame.
@@ -137,17 +135,13 @@ Frames Theory therefore separates three claims:
 The frame-relative cosmological state may be written as a restriction of a broader modeled state:
 
 $$
-\rho_{F_i}
-=
-\operatorname{Restrict}_{\mathcal{D}_i}(\rho_{\mathrm{model}}),
+\rho_{F_i}=\operatorname{Restrict}_{\mathcal{D}_i}(\rho_{\mathrm{model}}),
 $$
 
 or, when inaccessible degrees of freedom are entangled with accessible ones, schematically as
 
 $$
-\rho_{F_i}
-=
-\operatorname{Tr}_{\overline{\mathcal{D}_i}}(\rho_{\mathrm{model}}).
+\rho_{F_i}=\operatorname{Tr}_{\overline{\mathcal{D}_i}}(\rho_{\mathrm{model}}).
 $$
 
 Here $\overline{\mathcal{D}_i}$ denotes degrees of freedom outside the frame's causal domain. These formulas are not a completed cosmological quantum formalism. They express the same idea used in the state-update and relativistic-frame papers: a reduced state is what a larger structure looks like from within a bounded frame.
@@ -167,9 +161,7 @@ $$
 Where they overlap, their records and inferred descriptions must be mutually reconcilable. A consistency functional can be written in the same spirit as the first Frames Theory paper:
 
 $$
-\mathcal{K}(F_i,F_j)
-=
-\exp\left(-D(\rho_i^{\Omega},\rho_j^{\Omega})\right),
+\mathcal{K}(F_i,F_j)=\exp\left(-D(\rho_i^{\Omega},\rho_j^{\Omega})\right),
 $$
 
 where $\Omega$ is the shared observational domain and $D$ is an appropriate information distance.
@@ -225,9 +217,7 @@ This raises the question of whether the universe itself can be a frame.
 Frames Theory can treat a global universe model as a limiting or formal frame:
 
 $$
-F_{\mathrm{U}}
-=
-(\rho_{\mathrm{U}},N_{\mathrm{U}},C_{\mathrm{U}}),
+F_{\mathrm{U}}=(\rho_{\mathrm{U}},N_{\mathrm{U}},C_{\mathrm{U}}),
 $$
 
 but this object is not a frame in the ordinary operational sense. It has no external neighbor from which a complete outside observation can arrive. If $F_{\mathrm{U}}$ contains all physical frames, then there is no external receiving frame to bind to it as a whole.
@@ -249,9 +239,7 @@ The global universe may be represented mathematically, but no embedded frame can
 Horizons are not only causal boundaries. In gravitational physics, horizons are associated with entropy and information bounds. Black hole horizons have Bekenstein-Hawking entropy proportional to area:
 
 $$
-S_{\mathrm{BH}}
-=
-\frac{k_B c^3 A}{4G\hbar}.
+S_{\mathrm{BH}}=\frac{k_B c^3 A}{4G\hbar}.
 $$
 
 Cosmological horizons, especially in de Sitter-like spacetimes, are also associated with horizon temperature and entropy. These results suggest that causal boundaries may carry finite informational capacity.
@@ -373,9 +361,7 @@ Frames Theory interprets this as horizon-bounded reality. A cosmological frame a
 The compact statement is:
 
 $$
-\text{cosmological frame}
-=
-\text{horizon-bounded causal patch with accessible records}.
+\text{cosmological frame}=\text{horizon-bounded causal patch with accessible records}.
 $$
 
 This view preserves cosmological realism while rejecting the assumption that physical description begins from an impossible external standpoint. The universe can be modeled globally, but it is known, tested, and reconciled from within bounded frames.

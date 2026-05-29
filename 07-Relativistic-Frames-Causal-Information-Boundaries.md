@@ -158,9 +158,7 @@ The distinction between accessible and global neighborhoods is important. A math
 This connects directly to partial trace. If a frame cannot access degrees of freedom beyond a horizon, then its effective state may be represented by tracing over inaccessible degrees of freedom:
 
 $$
-\rho_{\mathrm{accessible}}
-=
-\operatorname{Tr}_{\mathrm{beyond\ horizon}}(\rho_{\mathrm{global}}).
+\rho_{\mathrm{accessible}}=\operatorname{Tr}_{\mathrm{beyond\ horizon}}(\rho_{\mathrm{global}}).
 $$
 
 This expression should be read cautiously. It is a schematic bridge, not a full theory of quantum fields in curved spacetime. Its purpose is to show the continuity between earlier Frames Theory treatment of partial trace and relativistic causal boundaries.
@@ -338,9 +336,7 @@ This paper has argued that relativistic frames should be understood as causal in
 The compact statement is:
 
 $$
-\text{relativistic frame}
-=
-\text{bounded information state within a causal domain}.
+\text{relativistic frame}=\text{bounded information state within a causal domain}.
 $$
 
 This preserves the core commitments of Frames Theory while bringing them into contact with relativistic causality. The next step is to apply this causal-domain view to black holes, horizons, holography, and cosmological patches in greater detail.
