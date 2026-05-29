@@ -101,9 +101,7 @@ $$
 By linearity, the total state becomes
 
 $$
-|\Psi\rangle_{SF}
-=
-\sum_k c_k |k\rangle_S |F_k\rangle.
+|\Psi\rangle_{SF} = \sum_k c_k |k\rangle_S |F_k\rangle.
 $$
 
 This is the entangling stage of quantum frame-binding. The system and receiving frame are no longer separable:
@@ -193,9 +191,7 @@ The central advantage of the frame-binding interpretation is that it separates l
 Suppose the system and frame evolve into
 
 $$
-|\Psi\rangle_{SF}
-=
-\sum_k c_k |k\rangle_S |F_k\rangle.
+|\Psi\rangle_{SF}=\sum_k c_k |k\rangle_S |F_k\rangle.
 $$
 
 A frame external to the interaction may describe the joint system as a superposition of correlated states. But for the receiving frame associated with $F_k$, the informational state is definite with respect to $k$. The frame does not need access to a global God's-eye description in order for its outcome to be actual. Actuality is indexed to the frame in which the binding occurs.
