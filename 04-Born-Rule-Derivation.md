@@ -359,7 +359,7 @@ Thus the correct claim is not that the Born rule has been derived from no assump
 Gleason's theorem shows that, for Hilbert spaces of dimension greater than two, any suitable noncontextual probability measure over projectors must take the trace form
 
 $$
-\mu(P)=\operatorname{Tr}(\rho P).
+\mu(P)=\mathrm{Tr}(\rho P).
 $$
 
 For a pure state and rank-one outcome projector, this yields the Born rule.

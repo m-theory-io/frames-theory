@@ -67,13 +67,13 @@ Much confusion in the measurement problem comes from treating these three descri
 In the standard projective measurement formalism, an outcome $k$ is associated with a projector $P_k$. Given an initial density matrix $\rho$, the probability of outcome $k$ is
 
 $$
-p_k=\operatorname{Tr}(P_k\rho).
+p_k=\mathrm{Tr}(P_k\rho).
 $$
 
 After outcome $k$ is obtained, the state is updated by the Lüders rule:
 
 $$
-\rho^{\mathrm{post}}=\frac{P_k\rho P_k}{\operatorname{Tr}(P_k\rho)}.
+\rho^{\mathrm{post}}=\frac{P_k\rho P_k}{\mathrm{Tr}(P_k\rho)}.
 $$
 
 In collapse language, this is often described as if the physical state of the world has jumped into the $k$ subspace. Frames Theory gives a different interpretation.
@@ -83,13 +83,13 @@ Projection is frame-relative conditionalization. It is the rule by which a recei
 For a receiving frame $F$, write the post-binding update as
 
 $$
-\rho_F^{\mathrm{post}}=\frac{P_k\rho P_k}{\operatorname{Tr}(P_k\rho)}.
+\rho_F^{\mathrm{post}}=\frac{P_k\rho P_k}{\mathrm{Tr}(P_k\rho)}.
 $$
 
 The denominator is the binding weight associated with that possible update:
 
 $$
-\mu_F(k)=\operatorname{Tr}(P_k\rho).
+\mu_F(k)=\mathrm{Tr}(P_k\rho).
 $$
 
 In the pure-state case, if
@@ -127,7 +127,7 @@ Projection describes state update after outcome-resolving information has been r
 Suppose a system $S$ is entangled with an environment $E$ and the joint state is represented by $\rho_{SE}$. A frame with access only to $S$ uses the reduced state
 
 $$
-\rho_S=\operatorname{Tr}_E(\rho_{SE}).
+\rho_S=\mathrm{Tr}_E(\rho_{SE}).
 $$
 
 This operation is often described as tracing out the environment. Frames Theory interprets this not as physical deletion or subjective forgetting, but as restriction to a frame's accessible degrees of freedom. The reduced state is the effective state available within the informational boundary of the frame.
@@ -141,7 +141,7 @@ $$
 then the local reduced state may be mixed:
 
 $$
-\rho_S=\operatorname{Tr}_E\left(|\Psi\rangle_{SE}\langle\Psi|\right).
+\rho_S=\mathrm{Tr}_E\left(|\Psi\rangle_{SE}\langle\Psi|\right).
 $$
 
 This raises a familiar question. How can the same physical situation be pure and mixed? Frames Theory answers: pure relative to which frame, and mixed relative to which frame?
@@ -227,13 +227,13 @@ $$
 A local frame $F$ with access only to the system may use a reduced state:
 
 $$
-\rho_F=\operatorname{Tr}_{AE}(\rho_{SAE}).
+\rho_F=\mathrm{Tr}_{AE}(\rho_{SAE}).
 $$
 
 A detector frame $D_k$ that has bound to outcome $k$ may use a conditioned state:
 
 $$
-\rho_{D_k}^{\mathrm{post}}=\frac{P_k\rho P_k}{\operatorname{Tr}(P_k\rho)}.
+\rho_{D_k}^{\mathrm{post}}=\frac{P_k\rho P_k}{\mathrm{Tr}(P_k\rho)}.
 $$
 
 These descriptions differ, but they are not arbitrary. The reduced state must be obtainable from the broader state by restricting access. The conditioned state must be tied to a binding event with a definite outcome-relative channel. The binding measures must agree when fine-grained distinctions are grouped into coarser outcomes.
@@ -311,13 +311,13 @@ Projection, partial trace, and decoherence are often treated as if they describe
 Projection is the update rule for a receiving frame after it binds to outcome-resolving information:
 
 $$
-\rho_F^{\mathrm{post}}=\frac{P_k\rho P_k}{\operatorname{Tr}(P_k\rho)}.
+\rho_F^{\mathrm{post}}=\frac{P_k\rho P_k}{\mathrm{Tr}(P_k\rho)}.
 $$
 
 Partial trace is the construction of the state available within a frame's informational boundary:
 
 $$
-\rho_S=\operatorname{Tr}_E(\rho_{SE}).
+\rho_S=\mathrm{Tr}_E(\rho_{SE}).
 $$
 
 Decoherence is the propagation and environmental stabilization of outcome-relevant information together with the loss of frame-accessible coherence:

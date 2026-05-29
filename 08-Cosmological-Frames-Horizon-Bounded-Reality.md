@@ -135,13 +135,13 @@ Frames Theory therefore separates three claims:
 The frame-relative cosmological state may be written as a restriction of a broader modeled state:
 
 $$
-\rho_{F_i}=\operatorname{Restrict}_{\mathcal{D}_i}(\rho_{\mathrm{model}}),
+\rho_{F_i}=\mathrm{Restrict}_{\mathcal{D}_i}(\rho_{\mathrm{model}}),
 $$
 
 or, when inaccessible degrees of freedom are entangled with accessible ones, schematically as
 
 $$
-\rho_{F_i}=\operatorname{Tr}_{\overline{\mathcal{D}_i}}(\rho_{\mathrm{model}}).
+\rho_{F_i}=\mathrm{Tr}_{\overline{\mathcal{D}_i}}(\rho_{\mathrm{model}}).
 $$
 
 Here $\overline{\mathcal{D}_i}$ denotes degrees of freedom outside the frame's causal domain. These formulas are not a completed cosmological quantum formalism. They express the same idea used in the state-update and relativistic-frame papers: a reduced state is what a larger structure looks like from within a bounded frame.

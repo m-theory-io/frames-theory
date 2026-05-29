@@ -49,7 +49,7 @@ In standard quantum language, the systems are entangled. In Frames Theory, this 
 The reduced state of either subsystem is mixed:
 
 $$
-\rho_A=\operatorname{Tr}_B\left(|\Phi^+\rangle\langle\Phi^+|\right)=\frac{1}{2}I,
+\rho_A=\mathrm{Tr}_B\left(|\Phi^+\rangle\langle\Phi^+|\right)=\frac{1}{2}I,
 $$
 
 and likewise
@@ -75,7 +75,7 @@ The local binding at $A$ is not caused by a signal from $B$. Likewise, the local
 Yet the outcomes are not independent. The joint probabilities are given by the quantum state and measurement settings:
 
 $$
-P(a,b|x,y)=\operatorname{Tr}\left[(M^x_a\otimes N^y_b)\rho_{AB}\right],
+P(a,b|x,y)=\mathrm{Tr}\left[(M^x_a\otimes N^y_b)\rho_{AB}\right],
 $$
 
 where $M^x_a$ and $N^y_b$ are the measurement operators associated with the two local settings.
@@ -155,7 +155,7 @@ is independent of $x$.
 In density-matrix language, if Alice has access only to subsystem $A$, then her local state is
 
 $$
-\rho_A=\operatorname{Tr}_B(\rho_{AB}).
+\rho_A=\mathrm{Tr}_B(\rho_{AB}).
 $$
 
 Bob's local choice of measurement setting does not by itself change the state available inside Alice's frame. Alice's receiving frame can bind to a local outcome, but she cannot infer Bob's setting or outcome from her local result alone.
