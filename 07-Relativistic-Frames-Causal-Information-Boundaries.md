@@ -158,7 +158,7 @@ The distinction between accessible and global neighborhoods is important. A math
 This connects directly to partial trace. If a frame cannot access degrees of freedom beyond a horizon, then its effective state may be represented by tracing over inaccessible degrees of freedom:
 
 $$
-\rho_{\mathrm{accessible}}=\operatorname{Tr}_{\mathrm{beyond\ horizon}}(\rho_{\mathrm{global}}).
+\rho_{\mathrm{accessible}}=\mathrm{Tr}_{\mathrm{beyond\ horizon}}(\rho_{\mathrm{global}}).
 $$
 
 This expression should be read cautiously. It is a schematic bridge, not a full theory of quantum fields in curved spacetime. Its purpose is to show the continuity between earlier Frames Theory treatment of partial trace and relativistic causal boundaries.
