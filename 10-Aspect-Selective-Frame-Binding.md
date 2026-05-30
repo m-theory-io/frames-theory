@@ -379,3 +379,21 @@ The ice cream truck example makes this visible. The chair receives vibrational a
 This paper has called that process aspect-selective frame-binding. A measurement-like event propagates through a neighborhood of frames as a bundle of informational aspects. Each receiving frame filters that bundle according to its coupling channels, state-space, memory, constraints, and type. Exposure is not binding; binding is not interpretation; interpretation is not objectivity.
 
 The result is a more precise account of local informational reality. Frames do not receive events as they are in themselves from nowhere. They receive admissible aspects of events. Shared reality emerges where those aspect-bindings overlap, stabilize, and become mutually consistent across a neighborhood of frames.
+
+## Attribution and License
+
+Author: William J. House
+
+This paper is part of the Frames Theory series: https://github.com/m-theory-io/frames-theory
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+## References and Influences
+
+- Carlo Rovelli, "Relational Quantum Mechanics," *International Journal of Theoretical Physics* 35, 1637-1678 (1996).
+- H. Dieter Zeh, "On the Interpretation of Measurement in Quantum Theory," *Foundations of Physics* 1, 69-76 (1970).
+- Wojciech H. Zurek, "Decoherence, einselection, and the quantum origins of the classical," *Reviews of Modern Physics* 75, 715-775 (2003).
+- Harold Ollivier, David Poulin, and Wojciech H. Zurek, "Objective properties from subjective quantum states: Environment as a witness," *Physical Review Letters* 93, 220401 (2004).
+- James J. Gibson, *The Ecological Approach to Visual Perception* (1979).
+- Claude E. Shannon, "A Mathematical Theory of Communication," *Bell System Technical Journal* 27, 379-423 and 623-656 (1948).
+- Gregory Bateson, *Steps to an Ecology of Mind* (1972).

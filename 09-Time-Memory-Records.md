@@ -379,3 +379,22 @@ $$
 $$
 
 This view preserves the usefulness of physical time coordinates while grounding temporal meaning in frame-relative information. It also connects quantum measurement, classical objectivity, relativity, cosmology, and self-reference through a common theme: what becomes real for a frame is what can be bound, recorded, remembered, and reconciled.
+
+## Attribution and License
+
+Author: William J. House
+
+This paper is part of the Frames Theory series: https://github.com/m-theory-io/frames-theory
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+## References and Influences
+
+- Ludwig Boltzmann, "Lectures on Gas Theory" (1896-1898).
+- Huw Price, *Time's Arrow and Archimedes' Point* (1996).
+- H. Dieter Zeh, *The Physical Basis of the Direction of Time* (1989).
+- Murray Gell-Mann and James B. Hartle, "Classical equations for quantum systems," *Physical Review D* 47, 3345-3382 (1993).
+- Robert B. Griffiths, "Consistent histories and the interpretation of quantum mechanics," *Journal of Statistical Physics* 36, 219-272 (1984).
+- Roland Omnes, "Consistent interpretations of quantum mechanics," *Reviews of Modern Physics* 64, 339-382 (1992).
+- Wojciech H. Zurek, "Decoherence, einselection, and the quantum origins of the classical," *Reviews of Modern Physics* 75, 715-775 (2003).
+- Carlo Rovelli, *The Order of Time* (2018).
