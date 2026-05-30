@@ -365,3 +365,22 @@ $$
 $$
 
 This view preserves cosmological realism while rejecting the assumption that physical description begins from an impossible external standpoint. The universe can be modeled globally, but it is known, tested, and reconciled from within bounded frames.
+
+## Attribution and License
+
+Author: William J. House
+
+This paper is part of the Frames Theory series: https://github.com/m-theory-io/frames-theory
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+## References and Influences
+
+- Edwin Hubble, "A Relation between Distance and Radial Velocity among Extra-Galactic Nebulae," *Proceedings of the National Academy of Sciences* 15, 168-173 (1929).
+- Arno A. Penzias and Robert W. Wilson, "A Measurement of Excess Antenna Temperature at 4080 Mc/s," *The Astrophysical Journal* 142, 419-421 (1965).
+- Alan H. Guth, "Inflationary universe: A possible solution to the horizon and flatness problems," *Physical Review D* 23, 347-356 (1981).
+- Andrei D. Linde, "A new inflationary universe scenario," *Physics Letters B* 108, 389-393 (1982).
+- Edward R. Harrison, "Fluctuations at the threshold of classical cosmology," *Physical Review D* 1, 2726-2730 (1970).
+- Jacob D. Bekenstein, "Black holes and entropy," *Physical Review D* 7, 2333-2346 (1973).
+- Raphael Bousso, "The holographic principle," *Reviews of Modern Physics* 74, 825-874 (2002).
+- Stephen W. Hawking and George F. R. Ellis, *The Large Scale Structure of Space-Time* (1973).

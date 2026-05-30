@@ -333,3 +333,22 @@ These operations do not need to be read as universal collapse. They are rules fo
 This completes the bridge between the Born-rule interpretation and the Born-rule derivation program. The Born-rule paper explains what probability measures: successful frame-binding. The present paper explains how state descriptions update relative to frames. The derivation paper then asks why the binding measure must take the quadratic form.
 
 Together, these papers suggest a coherent frame-theoretic reading of quantum measurement: outcomes are locally definite, state updates are frame-relative, and consistency across frames replaces the need for universal collapse.
+
+## Attribution and License
+
+Author: William J. House
+
+This paper is part of the Frames Theory series: https://github.com/m-theory-io/frames-theory
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+## References and Influences
+
+- Gerhart Luders, "Uber die Zustandsanderung durch den Messprozess," *Annalen der Physik* 443, 322-328 (1950).
+- John von Neumann, *Mathematical Foundations of Quantum Mechanics* (1932; English translation 1955).
+- H. Dieter Zeh, "On the Interpretation of Measurement in Quantum Theory," *Foundations of Physics* 1, 69-76 (1970).
+- Wojciech H. Zurek, "Decoherence, einselection, and the quantum origins of the classical," *Reviews of Modern Physics* 75, 715-775 (2003).
+- Maximilian Schlosshauer, *Decoherence and the Quantum-to-Classical Transition* (2007).
+- Hugh Everett III, "Relative State Formulation of Quantum Mechanics," *Reviews of Modern Physics* 29, 454-462 (1957).
+- Carlo Rovelli, "Relational Quantum Mechanics," *International Journal of Theoretical Physics* 35, 1637-1678 (1996).
+- Christopher A. Fuchs, N. David Mermin, and Ruediger Schack, "An introduction to QBism with an application to the locality of quantum mechanics," *American Journal of Physics* 82, 749-754 (2014).

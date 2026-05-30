@@ -302,3 +302,21 @@ $$
 This preserves local definiteness without universal collapse. It also explains why classical facts are not merely private experiences. A classical fact is a stable, redundant, consistency-preserving structure in a network of physical frames.
 
 In this sense, classical reality is not a separate ontological layer imposed on quantum mechanics. It is the high-redundancy limit of frame-relative binding.
+
+## Attribution and License
+
+Author: William J. House
+
+This paper is part of the Frames Theory series: https://github.com/m-theory-io/frames-theory
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+## References and Influences
+
+- H. Dieter Zeh, "On the Interpretation of Measurement in Quantum Theory," *Foundations of Physics* 1, 69-76 (1970).
+- Wojciech H. Zurek, "Decoherence, einselection, and the quantum origins of the classical," *Reviews of Modern Physics* 75, 715-775 (2003).
+- Wojciech H. Zurek, "Quantum Darwinism," *Nature Physics* 5, 181-188 (2009).
+- Harold Ollivier, David Poulin, and Wojciech H. Zurek, "Objective properties from subjective quantum states: Environment as a witness," *Physical Review Letters* 93, 220401 (2004).
+- Maximilian Schlosshauer, *Decoherence and the Quantum-to-Classical Transition* (2007).
+- Hugh Everett III, "Relative State Formulation of Quantum Mechanics," *Reviews of Modern Physics* 29, 454-462 (1957).
+- Carlo Rovelli, "Relational Quantum Mechanics," *International Journal of Theoretical Physics* 35, 1637-1678 (1996).

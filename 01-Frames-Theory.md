@@ -263,3 +263,23 @@ Frames Theory proposes that physical reality can be modeled as a recursively emb
 The framework is intentionally incomplete. Its purpose at this stage is to establish a disciplined ontology and mathematical scaffold, not to replace established physical theories. If successful, Frames Theory may provide a higher-order relational substrate within which quantum measurement, decoherence, observer dependence, causal horizons, and incomplete self-description can be understood as manifestations of a common structure: bounded frames exchanging and reconciling information.
 
 The next steps are to sharpen the update dynamics, identify the appropriate state spaces and distance measures, formalize consistency propagation, and determine whether known physics can be recovered as limiting behavior of the frame network.
+
+## Attribution and License
+
+Author: William J. House
+
+This paper is part of the Frames Theory series: https://github.com/m-theory-io/frames-theory
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+## References and Influences
+
+- Carlo Rovelli, "Relational Quantum Mechanics," *International Journal of Theoretical Physics* 35, 1637-1678 (1996).
+- Hugh Everett III, "Relative State Formulation of Quantum Mechanics," *Reviews of Modern Physics* 29, 454-462 (1957).
+- Eugene P. Wigner, "Remarks on the Mind-Body Question," in *The Scientist Speculates*, edited by I. J. Good (1961).
+- H. Dieter Zeh, "On the Interpretation of Measurement in Quantum Theory," *Foundations of Physics* 1, 69-76 (1970).
+- Wojciech H. Zurek, "Decoherence, einselection, and the quantum origins of the classical," *Reviews of Modern Physics* 75, 715-775 (2003).
+- John Archibald Wheeler, "Information, physics, quantum: The search for links," in *Complexity, Entropy, and the Physics of Information*, edited by W. H. Zurek (1990).
+- John S. Bell, "On the Einstein Podolsky Rosen Paradox," *Physics Physique Fizika* 1, 195-200 (1964).
+- Albert Einstein, "Relativity: The Special and General Theory" (1916).
+- Kurt Godel, "On Formally Undecidable Propositions of Principia Mathematica and Related Systems" (1931).

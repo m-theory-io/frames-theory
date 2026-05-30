@@ -334,3 +334,21 @@ $$
 $$
 
 This preserves the empirical content of quantum mechanics while giving Frames Theory a clear account of one of its sharpest interpretive tests: quantum correlations can be nonlocal without becoming signals.
+
+## Attribution and License
+
+Author: William J. House
+
+This paper is part of the Frames Theory series: https://github.com/m-theory-io/frames-theory
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+## References and Influences
+
+- Albert Einstein, Boris Podolsky, and Nathan Rosen, "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?" *Physical Review* 47, 777-780 (1935).
+- John S. Bell, "On the Einstein Podolsky Rosen Paradox," *Physics Physique Fizika* 1, 195-200 (1964).
+- John F. Clauser, Michael A. Horne, Abner Shimony, and Richard A. Holt, "Proposed Experiment to Test Local Hidden-Variable Theories," *Physical Review Letters* 23, 880-884 (1969).
+- Boris S. Tsirelson, "Quantum generalizations of Bell's inequality," *Letters in Mathematical Physics* 4, 93-100 (1980).
+- Asher Peres, "Delayed choice for entanglement swapping," *Journal of Modern Optics* 47, 139-143 (2000).
+- Carlo Rovelli, "Relational Quantum Mechanics," *International Journal of Theoretical Physics* 35, 1637-1678 (1996).
+- Nicolas Gisin, "Quantum nonlocality: How does nature do it?" *Science* 326, 1357-1358 (2009).

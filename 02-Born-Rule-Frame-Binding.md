@@ -359,3 +359,23 @@ Here $\mu_F(k)$ is the binding measure for outcome $k$ relative to frame $F$. It
 This interpretation preserves the empirical content of the Born rule, avoids universal collapse, and gives outcome definiteness a local but physically meaningful status. It also clarifies the role of probability in Frames Theory: probability is not a measure of reality choosing one absolute history. It is a measure of informational binding within a network of frames.
 
 The Born rule, then, is not merely a computational rule appended to quantum mechanics. In Frames Theory, it is the quantitative structure of frame-relative actualization.
+
+## Attribution and License
+
+Author: William J. House
+
+This paper is part of the Frames Theory series: https://github.com/m-theory-io/frames-theory
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+## References and Influences
+
+- Max Born, "Zur Quantenmechanik der Stossvorgange," *Zeitschrift fur Physik* 37, 863-867 (1926).
+- Hugh Everett III, "Relative State Formulation of Quantum Mechanics," *Reviews of Modern Physics* 29, 454-462 (1957).
+- Bryce S. DeWitt and Neill Graham, eds., *The Many-Worlds Interpretation of Quantum Mechanics* (1973).
+- David Deutsch, "Quantum theory of probability and decisions," *Proceedings of the Royal Society A* 455, 3129-3137 (1999).
+- David Wallace, *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation* (2012).
+- Wojciech H. Zurek, "Environment-assisted invariance, entanglement, and probabilities in quantum physics," *Physical Review Letters* 90, 120404 (2003).
+- Andrew M. Gleason, "Measures on the closed subspaces of a Hilbert space," *Journal of Mathematics and Mechanics* 6, 885-893 (1957).
+- Carlo Rovelli, "Relational Quantum Mechanics," *International Journal of Theoretical Physics* 35, 1637-1678 (1996).
+- Christopher A. Fuchs, N. David Mermin, and Ruediger Schack, "An introduction to QBism with an application to the locality of quantum mechanics," *American Journal of Physics* 82, 749-754 (2014).

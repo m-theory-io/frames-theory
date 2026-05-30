@@ -427,3 +427,22 @@ $$
 The distinctive contribution of Frames Theory is not merely to repeat standard probability axioms. It is to give those axioms a physical interpretation in terms of frame-binding and to add a recursive consistency condition across nested informational contexts.
 
 This does not end the Born-rule problem. It sharpens it. It shows where the real assumptions lie, why they are natural within Frames Theory, and how the quadratic measure emerges as the only stable candidate for frame-relative actualization across a recursive frame network.
+
+## Attribution and License
+
+Author: William J. House
+
+This paper is part of the Frames Theory series: https://github.com/m-theory-io/frames-theory
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+## References and Influences
+
+- Andrew M. Gleason, "Measures on the closed subspaces of a Hilbert space," *Journal of Mathematics and Mechanics* 6, 885-893 (1957).
+- Max Born, "Zur Quantenmechanik der Stossvorgange," *Zeitschrift fur Physik* 37, 863-867 (1926).
+- David Deutsch, "Quantum theory of probability and decisions," *Proceedings of the Royal Society A* 455, 3129-3137 (1999).
+- David Wallace, *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation* (2012).
+- Wojciech H. Zurek, "Environment-assisted invariance, entanglement, and probabilities in quantum physics," *Physical Review Letters* 90, 120404 (2003).
+- Wojciech H. Zurek, "Probabilities from entanglement, Born's rule from envariance," *Physical Review A* 71, 052105 (2005).
+- Max Schlosshauer and Arthur Fine, "On Zurek's derivation of the Born rule," *Foundations of Physics* 35, 197-213 (2005).
+- Lev Vaidman, "Probability in the Many-Worlds Interpretation of Quantum Mechanics," in *Many Worlds? Everett, Quantum Theory, and Reality*, edited by S. Saunders et al. (2010).

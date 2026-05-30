@@ -340,3 +340,22 @@ $$
 $$
 
 This preserves the core commitments of Frames Theory while bringing them into contact with relativistic causality. The next step is to apply this causal-domain view to black holes, horizons, holography, and cosmological patches in greater detail.
+
+## Attribution and License
+
+Author: William J. House
+
+This paper is part of the Frames Theory series: https://github.com/m-theory-io/frames-theory
+
+This work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+## References and Influences
+
+- Albert Einstein, "On the Electrodynamics of Moving Bodies," *Annalen der Physik* 17, 891-921 (1905).
+- Hermann Minkowski, "Space and Time" (1908).
+- Albert Einstein, "The Foundation of the General Theory of Relativity," *Annalen der Physik* 49, 769-822 (1916).
+- Stephen W. Hawking and George F. R. Ellis, *The Large Scale Structure of Space-Time* (1973).
+- Robert M. Wald, *General Relativity* (1984).
+- Raphael Bousso, "The holographic principle," *Reviews of Modern Physics* 74, 825-874 (2002).
+- Leonard Susskind, Larus Thorlacius, and John Uglum, "The stretched horizon and black hole complementarity," *Physical Review D* 48, 3743-3761 (1993).
+- Carlo Rovelli, "Relational Quantum Mechanics," *International Journal of Theoretical Physics* 35, 1637-1678 (1996).
