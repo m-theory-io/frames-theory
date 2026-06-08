@@ -16,7 +16,7 @@ Earlier papers in this sequence developed the basic frame ontology, the Born rul
 
 > What is the status of Hilbert space itself in Frames Theory?
 
-In standard quantum mechanics, one begins with a Hilbert space $\mathcal{H}$. Pure states are vectors or rays in $\mathcal{H}$, mixed states are density operators on \(\mathcal{H}\), and observables are represented by operators acting on $\mathcal{H}$. Composite systems are represented by tensor products, and measurement updates are represented by projection or more general quantum operations.
+In standard quantum mechanics, one begins with a Hilbert space $\mathcal{H}$. Pure states are vectors or rays in $\mathcal{H}$, mixed states are density operators on $\mathcal{H}$, and observables are represented by operators acting on $\mathcal{H}$. Composite systems are represented by tensor products, and measurement updates are represented by projection or more general quantum operations.
 
 Frames Theory does not reject this formalism. The question is how to interpret it. Is there one universal Hilbert space whose state is the primary object of reality? Or are Hilbert spaces formal state spaces associated with bounded domains of accessibility, interaction, and record formation?
 
@@ -157,7 +157,7 @@ $$
 \mathcal{O}_i
 $$
 
-be the set or algebra of admissible observables available to \(F_i\). Then a more precise frame-neighborhood representation is
+be the set or algebra of admissible observables available to $F_i$. Then a more precise frame-neighborhood representation is
 
 $$
 \mathfrak{Q}_i=(\mathcal{H}_i,\mathcal{O}_i,\rho_i,C_i,R_i),
@@ -173,7 +173,7 @@ where:
 
 This formulation connects directly to aspect-selective frame-binding. Exposure to a degree of freedom is not enough. A frame must have admissible observables through which the relevant distinction can be registered.
 
-For an observable \(A\) to be physically available to \(F_i\), one may require schematically that
+For an observable $A$ to be physically available to $F_i$, one may require schematically that
 
 $$
 A\in\mathcal{O}_i
@@ -183,13 +183,13 @@ $$
 
 In more algebraic language, different frames may have different subalgebras of a larger operator algebra. A broader frame may have access to correlations represented by operators on a composite space, while a local frame may have access only to operators acting on a restricted subsystem.
 
-This matters for measurement. A frame does not bind to every formal distinction in \(\mathcal{H}_i\). It binds to distinctions represented by admissible observables that its structure can couple to and stabilize.
+This matters for measurement. A frame does not bind to every formal distinction in $\mathcal{H}_i$. It binds to distinctions represented by admissible observables that its structure can couple to and stabilize.
 
 Thus, in Frames Theory, the observable algebra is the bridge between formal Hilbert space and physical frame capacity.
 
 ## 6. Tensor Products, Containment, and Decomposition
 
-Composite quantum systems are represented by tensor products. If frames \(A\) and \(B\) are jointly accessible within a neighborhood, then a composite representation may take the form
+Composite quantum systems are represented by tensor products. If frames $A$ and $B$ are jointly accessible within a neighborhood, then a composite representation may take the form
 
 $$
 \mathcal{H}_{AB}=\mathcal{H}_A\otimes\mathcal{H}_B.
@@ -201,13 +201,13 @@ In ordinary quantum mechanics this is standard. Frames Theory adds a question:
 
 A tensor-product decomposition is not merely a mathematical convenience. It reflects a choice of subsystem structure, accessibility, and interaction. A detector may decompose a situation into system and apparatus. A broader laboratory frame may decompose it into particle, detector, apparatus, observer, and environment. Another frame may treat the entire laboratory as one coherent composite system.
 
-If \(F_i\) is contained in or embedded within \(F_j\), written
+If $F_i$ is contained in or embedded within $F_j$, written
 
 $$
 F_i\preceq F_j,
 $$
 
-then the Hilbert representation associated with \(F_i\) may be related to that of \(F_j\) by embedding, tensor extension, restriction, or coarse-graining. Schematically,
+then the Hilbert representation associated with $F_i$ may be related to that of $F_j$ by embedding, tensor extension, restriction, or coarse-graining. Schematically,
 
 $$
 \mathcal{H}_i
@@ -226,7 +226,7 @@ $$
 \mathcal{H}_j.
 $$
 
-The consistency problem is then to reconcile descriptions over the shared informational domain. If two frames assign states \(\rho_i\) and \(\rho_j\), their restrictions to the overlap should be compatible where the frames have access to the same records or observables.
+The consistency problem is then to reconcile descriptions over the shared informational domain. If two frames assign states $\rho_i$ and $\rho_j$, their restrictions to the overlap should be compatible where the frames have access to the same records or observables.
 
 This is the Hilbert-space version of the general Frames Theory consistency functional:
 
@@ -234,7 +234,7 @@ $$
 \mathcal{K}(i,j)=\exp\left(-D(\rho_i^{\Omega},\rho_j^{\Omega})\right),
 $$
 
-where \(\Omega\) is the shared informational neighborhood and \(D\) is an appropriate information distance.
+where $\Omega$ is the shared informational neighborhood and $D$ is an appropriate information distance.
 
 ## 7. Projection, Partial Trace, and Frame-Relative State Spaces
 
@@ -246,15 +246,15 @@ $$
 \rho^{\mathrm{post}}=\frac{P_k\rho P_k}{\mathrm{Tr}(P_k\rho)}
 $$
 
-is not an update to all Hilbert-space descriptions everywhere. It is an update within the Hilbert representation available to a frame that has bound to outcome \(k\). More explicitly,
+is not an update to all Hilbert-space descriptions everywhere. It is an update within the Hilbert representation available to a frame that has bound to outcome $k$. More explicitly,
 
 $$
 \rho_i^{\mathrm{post}}=\frac{P_{i,k}\rho_iP_{i,k}}{\mathrm{Tr}(P_{i,k}\rho_i)},
 $$
 
-where \(P_{i,k}\in\mathcal{O}_i\) is an admissible projector for frame \(F_i\).
+where $P_{i,k}\in\mathcal{O}_i$ is an admissible projector for frame $F_i$.
 
-The condition \(P_{i,k}\in\mathcal{O}_i\) matters. A formal projector may exist in some larger Hilbert space, but if the receiving frame cannot couple to, resolve, or stabilize the associated distinction, then it is not an available measurement outcome for that frame.
+The condition $P_{i,k}\in\mathcal{O}_i$ matters. A formal projector may exist in some larger Hilbert space, but if the receiving frame cannot couple to, resolve, or stabilize the associated distinction, then it is not an available measurement outcome for that frame.
 
 Similarly, partial trace is the operation by which a frame restricts a broader Hilbert representation to accessible degrees of freedom. If a broader frame uses
 
@@ -262,7 +262,7 @@ $$
 \rho_{SE}\quad\text{on}\quad\mathcal{H}_S\otimes\mathcal{H}_E,
 $$
 
-then a frame with access only to \(S\) uses
+then a frame with access only to $S$ uses
 
 $$
 \rho_S=\mathrm{Tr}_E(\rho_{SE}).
@@ -281,7 +281,7 @@ $$
 \mathcal{D}(\mathcal{H}_S),
 $$
 
-where \(\mathcal{D}(\mathcal{H})\) denotes density operators on \(\mathcal{H}\).
+where $\mathcal{D}(\mathcal{H})$ denotes density operators on $\mathcal{H}$.
 
 This explains how the same situation can be pure relative to one frame and mixed relative to another. A broader frame may use a pure state in a larger Hilbert space. A local frame may use a mixed state in a smaller Hilbert space. These are not contradictory claims about an absolute state. They are different descriptions indexed to different accessibility domains.
 
@@ -347,9 +347,9 @@ $$
 \mathcal{H}_{AB}=\mathcal{H}_A\otimes\mathcal{H}_B
 $$
 
-contains states that are not products of states in \(\mathcal{H}_A\) and \(\mathcal{H}_B\). The correlation structure belongs to the joint representation.
+contains states that are not products of states in $\mathcal{H}_A$ and $\mathcal{H}_B$. The correlation structure belongs to the joint representation.
 
-Frames Theory interprets this as a nonseparable constraint associated with a shared generating or comparison neighborhood. Local frames \(F_A\) and \(F_B\) may each use reduced states:
+Frames Theory interprets this as a nonseparable constraint associated with a shared generating or comparison neighborhood. Local frames $F_A$ and $F_B$ may each use reduced states:
 
 $$
 \rho_A=\mathrm{Tr}_B(|\Phi^+\rangle\langle\Phi^+|),
@@ -377,9 +377,9 @@ $$
 \mathcal{H}_{\mathrm{global}}
 $$
 
-as a mathematical representation of all degrees of freedom in a model. Such a representation may be useful for calculation, symmetry analysis, or theoretical unification. But no embedded frame has direct access to all of \(\mathcal{H}_{\mathrm{global}}\). Every physical frame occupies a bounded accessibility domain.
+as a mathematical representation of all degrees of freedom in a model. Such a representation may be useful for calculation, symmetry analysis, or theoretical unification. But no embedded frame has direct access to all of $\mathcal{H}_{\mathrm{global}}$. Every physical frame occupies a bounded accessibility domain.
 
-For a frame \(F_i\), the physically available Hilbert representation is some restriction, subspace, factor, effective algebra, or coarse-graining of the global representation:
+For a frame $F_i$, the physically available Hilbert representation is some restriction, subspace, factor, effective algebra, or coarse-graining of the global representation:
 
 $$
 \mathcal{H}_i
@@ -448,7 +448,7 @@ This design prevents a subtle mistake: animating a single global state and merel
 
 The frame-neighborhood interpretation of Hilbert space is a scaffold, not a completed mathematical theory. Several problems remain open.
 
-First, Frames Theory needs a precise rule for assigning \(\mathcal{H}_i\) to \(\mathcal{N}_i\). In simple models this is straightforward, but in interacting quantum field theory, gauge theories, gravity, and cosmology, subsystem decomposition is subtle.
+First, Frames Theory needs a precise rule for assigning $\mathcal{H}_i$ to $\mathcal{N}_i$. In simple models this is straightforward, but in interacting quantum field theory, gauge theories, gravity, and cosmology, subsystem decomposition is subtle.
 
 Second, the relation between observable algebras and frame admissibility should be formalized. Algebraic quantum theory may be especially useful here, since it already treats local regions through associated operator algebras.
 
