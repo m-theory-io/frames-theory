@@ -30,6 +30,7 @@ On this view:
 10. [Aspect-Selective Frame-Binding: Measurement-Like Propagation Across Informational Neighborhoods](10-Aspect-Selective-Frame-Binding.md)
 11. [Hilbert Space as Frame-Neighborhood State Space in Frames Theory](11-Hilbert-Space-Frames-Theory.md)
 12. [Quantum Fields as Frames: Aspect-Selective Binding and Particle Decay in Frames Theory](12-Quantum-Fields-as-Frames.md)
+13. [A Frames-Theoretic Big Bang](13-A-Frames-Theoretic-Big-Bang.md)
 
 The ordered index is also available at [00-Frames-Theory-Index.md](00-Frames-Theory-Index.md).
 
