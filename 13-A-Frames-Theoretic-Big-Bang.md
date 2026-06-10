@@ -517,27 +517,19 @@ The key proposal is that smoothing need not be a post-boundary inflaton-driven p
 Frames Theory can compare several possibilities:
 
 $$
-\text{CCC}
-=
-\text{conformal aeonic boundary},
+\text{CCC}=\text{conformal aeonic boundary},
 $$
 
 $$
-\text{loop quantum cosmology}
-=
-\text{quantum-geometric bounce boundary},
+\text{loop quantum cosmology}=\text{quantum-geometric bounce boundary},
 $$
 
 $$
-\text{inflation}
-=
-\text{post-boundary smoothing model},
+\text{inflation}=\text{post-boundary smoothing model},
 $$
 
 $$
-\text{Frames Theory}
-=
-\text{boundary-conditioned frame inheritance and record formation}.
+\text{Frames Theory}=\text{boundary-conditioned frame inheritance and record formation}.
 $$
 
 The result is a non-singular, non-inflaton-primitive way to frame the Big Bang. The observable universe is not simply what appears after a beginning from nothing. It is a post-boundary frame whose records, fields, geometry, and arrow of time are shaped by what the cosmological boundary admits, erases, transforms, and allows to become real for this aeon.
