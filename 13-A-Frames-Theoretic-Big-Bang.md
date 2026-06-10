@@ -57,9 +57,7 @@ A cosmological frame is a bounded domain of physical description at cosmic scale
 The observable universe is not the same as all possible reality. It is the post-boundary domain available to us through causal and record-bearing channels. In Frames Theory language:
 
 $$
-\mathcal{U}_{\mathrm{obs}}
-=
-\text{post-boundary cosmological frame accessible through records}.
+\mathcal{U}_{\mathrm{obs}}=\text{post-boundary cosmological frame accessible through records}.
 $$
 
 The frame includes the cosmic microwave background, light-element abundances, large-scale structure, gravitational records, particle-physics records, and astronomical observations. These records do not give direct access to a pre-boundary domain. They give access to post-boundary traces, constraints, and reconstructions.
@@ -195,9 +193,7 @@ $$
 but rather
 
 $$
-\text{smoothing}
-=
-\text{pre-boundary record dilution plus conformal admissibility}.
+\text{smoothing}=\text{pre-boundary record dilution plus conformal admissibility}.
 $$
 
 This is one of the strongest alternatives Frames Theory can offer. The early universe may appear smooth not because an arbitrary initial state was dynamically repaired after the boundary, but because the boundary itself is inherited from a previous frame whose late-time state has lost scale-bearing irregularity.
@@ -422,9 +418,7 @@ The Big Bang boundary is therefore central to the arrow of time. The early unive
 In the frame-theoretic picture:
 
 $$
-\text{time arrow}
-=
-\text{direction of increasing record accessibility from the boundary}.
+\text{time arrow}=\text{direction of increasing record accessibility from the boundary}.
 $$
 
 This does not require that the boundary contain a rich memory of the previous aeon. In fact, the opposite may be true. The boundary may be record-poor precisely because ordinary records have been erased, diluted, or rendered non-admissible.
