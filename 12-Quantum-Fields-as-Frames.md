@@ -212,17 +212,13 @@ Calling decay "measurement-like" requires care. A decay is not automatically a l
 Thus:
 
 $$
-\text{decay event}
-=
-\text{field-frame binding},
+\text{decay event}=\text{field-frame binding},
 $$
 
 while
 
 $$
-\text{detected decay event}
-=
-\text{field-frame binding plus record-forming amplification}.
+\text{detected decay event}=\text{field-frame binding plus record-forming amplification}.
 $$
 
 This distinction avoids treating every microscopic interaction as a completed classical observation.
@@ -300,9 +296,7 @@ The analogy should not be overstated. Born probabilities and branching ratios ar
 In this sense:
 
 $$
-\text{branching ratio}
-=
-\text{normalized field-frame binding measure over decay channels}.
+\text{branching ratio}=\text{normalized field-frame binding measure over decay channels}.
 $$
 
 This gives Frames Theory a clean bridge from measurement probabilities to relativistic interaction probabilities.
@@ -352,9 +346,7 @@ where $\mathcal{A}(E)$ is the total aspect bundle associated with an interaction
 For a decay event,
 
 $$
-\mathcal{A}(E_{\mathrm{decay}})
-=
-\{\text{energy-momentum},\text{spin},\text{charges},\text{flavor},\text{color},\text{mass},\text{phase-space mode},\ldots\}.
+\mathcal{A}(E_{\mathrm{decay}})=\{\text{energy-momentum},\text{spin},\text{charges},\text{flavor},\text{color},\text{mass},\text{phase-space mode},\ldots\}.
 $$
 
 Each receiving field-frame binds only the aspects compatible with its operator structure and couplings. This is not subjective selection. It is physical admissibility.
@@ -396,27 +388,19 @@ In relativistic QFT, fields are defined over spacetime, often idealized as Minko
 Frames Theory can distinguish these layers:
 
 $$
-\text{Minkowski space}
-=
-\text{causal-geometric support},
+\text{Minkowski space}=\text{causal-geometric support},
 $$
 
 $$
-\text{Hilbert/Fock space}
-=
-\text{quantum state representation},
+\text{Hilbert/Fock space}=\text{quantum state representation},
 $$
 
 $$
-\text{quantum field}
-=
-\text{operator-valued field-frame structure},
+\text{quantum field}=\text{operator-valued field-frame structure},
 $$
 
 $$
-\text{particle}
-=
-\text{excitation mode or detected event-aspect}.
+\text{particle}=\text{excitation mode or detected event-aspect}.
 $$
 
 This distinction is important. Minkowski space is not itself the field-frame. It is the causal-geometric support within which relativistic field-frame interactions are defined. Hilbert or Fock space is not itself the field-frame either. It is the state representation associated with field configurations, excitations, and observables.
@@ -478,39 +462,27 @@ On this view, particle decay is not a small object splitting into smaller object
 This gives a compact mapping:
 
 $$
-\text{quantum field}
-=
-\text{persistent informational frame},
+\text{quantum field}=\text{persistent informational frame},
 $$
 
 $$
-\text{particle}
-=
-\text{field excitation or event-aspect},
+\text{particle}=\text{field excitation or event-aspect},
 $$
 
 $$
-\text{interaction vertex}
-=
-\text{admissible binding channel},
+\text{interaction vertex}=\text{admissible binding channel},
 $$
 
 $$
-\text{decay}
-=
-\text{aspect redistribution into receiving field-frames},
+\text{decay}=\text{aspect redistribution into receiving field-frames},
 $$
 
 $$
-\text{branching ratio}
-=
-\text{field-frame binding measure},
+\text{branching ratio}=\text{field-frame binding measure},
 $$
 
 $$
-\text{detector record}
-=
-\text{macroscopic stabilization of field-frame traces}.
+\text{detector record}=\text{macroscopic stabilization of field-frame traces}.
 $$
 
 The proposal is deliberately conservative about physics and ambitious about ontology. It preserves the formal authority of quantum field theory while offering a Frames Theory reading of what field interactions mean: not detached particles moving through empty space, but structured field-frames binding, transforming, and recording aspects of physical events under causal and symmetry constraints.
