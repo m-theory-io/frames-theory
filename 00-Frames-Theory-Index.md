@@ -13,3 +13,4 @@
 | 09 | [Time, Memory, and Records in Frames Theory](09-Time-Memory-Records.md) | Memory, records, and temporal ordering |
 | 10 | [Aspect-Selective Frame-Binding: Measurement-Like Propagation Across Informational Neighborhoods](10-Aspect-Selective-Frame-Binding.md) | Selective propagation of bound information |
 | 11 | [Hilbert Space as Frame-Neighborhood State Space in Frames Theory](11-Hilbert-Space-Frames-Theory.md) | Hilbert spaces as frame-relative quantum state spaces |
+| 12 | [Quantum Fields as Frames: Aspect-Selective Binding and Particle Decay in Frames Theory](12-Quantum-Fields-as-Frames.md) | Quantum fields, particle decay, and field-frame binding |
