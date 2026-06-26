@@ -1,8 +1,8 @@
 # Frames Theory
 
-Frames Theory is a relational information framework for thinking about physical reality, observation, quantum measurement, objectivity, causal boundaries, and memory. Its central idea is that physical description should begin with bounded informational frames that exchange, constrain, and reconcile information through interaction, rather than with detached objects viewed from nowhere.
+Frames Theory is a relational information framework for thinking about physical reality, observation, quantum measurement, objectivity, causal boundaries, memory, relativistic geometry, and cosmology. Its central idea is that physical description should begin with bounded informational frames that exchange, constrain, and reconcile information through interaction, rather than with detached objects viewed from nowhere.
 
-This repository collects a sequence of short papers developing the framework. The project is exploratory and foundational: it is not presented as a replacement for quantum mechanics or general relativity, but as a disciplined relational ontology for organizing questions about measurement, frame-relative state update, classical objectivity, nonlocality, relativistic causality, cosmological horizons, and records.
+This repository collects a sequence of short papers developing the framework. The project is exploratory and foundational: it is not presented as a replacement for quantum mechanics or general relativity, but as a disciplined relational ontology for organizing questions about measurement, frame-relative state update, classical objectivity, nonlocality, relativistic causality, spacetime consistency, cosmological horizons, and records.
 
 ## Core Idea
 
@@ -14,6 +14,7 @@ On this view:
 - Born probabilities are interpreted as frame-binding measures.
 - Classical objectivity emerges when outcome-relative information is redundantly stabilized across many compatible frames.
 - Relativistic and cosmological horizons are treated as informational boundaries on frame accessibility.
+- General Relativity is reinterpreted as the large-scale compatibility theory of local measurement frames.
 - Time and memory are approached through records, update order, and stable informational traces.
 
 ## Papers
@@ -31,16 +32,13 @@ On this view:
 11. [Hilbert Space as Frame-Neighborhood State Space in Frames Theory](11-Hilbert-Space-Frames-Theory.md)
 12. [Quantum Fields as Frames: Aspect-Selective Binding and Particle Decay in Frames Theory](12-Quantum-Fields-as-Frames.md)
 13. [A Frames-Theoretic Big Bang](13-A-Frames-Theoretic-Big-Bang.md)
+14. [General Relativity in Frames Theory](14-General-Relativity-in-Frames-Theory.md)
 
 The ordered index is also available at [00-Frames-Theory-Index.md](00-Frames-Theory-Index.md).
 
-## Notes
-
-The [notes](notes/) directory contains working notes, early drafts, planning material, and exploratory conversations that informed the paper sequence. These files are less polished than the main numbered papers and should be read as development material.
-
 ## Status
 
-Frames Theory is a work in progress. The current papers emphasize conceptual clarity, mathematical scaffolding, and interpretation of existing physics. Several open tasks remain, including sharper formal definitions, stronger derivational results, comparison with existing foundations literature, and possible quantitative predictions.
+Frames Theory is a work in progress. The current papers emphasize conceptual clarity, mathematical scaffolding, and reinterpretation of existing physics in frame-centered terms. Several open tasks remain, including sharper formal definitions, stronger derivational results, a more explicit bridge between General Relativity and quantum measurement, comparison with existing foundations literature, and possible quantitative predictions.
 
 ## License
 
